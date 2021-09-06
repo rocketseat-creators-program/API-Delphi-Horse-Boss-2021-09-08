@@ -1,22 +1,23 @@
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-# Título
+# Construindo APIs REST no Delphi com Horse e Boss
 
-Introdução ao seu projeto. Apresentado por [Seu nome][1].
+Neste projeto é apresentado como  desenvolver uma API no Delphi ultilizando o Framework web [Horse][3] que foi inspirado no Express do Node.js, feito pela equipe da [HashLoad][2]. 
+Também é mostrado como gerenciar as depências dos projetos Delphi com [Boss][4], também desenvolvido pela Hashload.
+Apresentado por [Alessandro Dutra de Andrade (Cachopaweb)][1].
 
-> __Atenção__: Este é o projeto <template/completo>, se você está procurando o projeto de <completo/template>, vá para [este repositório](https://github.com/rocketseat-experts-club/<seu projeto aqui>)
-
-## Instalação
-
-1. Use este template
-2. Edite o README.md
-3. Adicione seus arquivos
-
+## Instalação das dependências usando Boss
+```sh
+boss install
+```
 ## Expert
 
-| [<img src="https://github.com/<seu handle>.png" width="75px;"/>][1] |
+| [<img src="https://github.com/cachopaweb.png" width="75px;"/>][1] |
 | :-: |
 |[Creator][1]|
 
 
-[1]: https://seusite.com.br
+[1]: https://github.com/cachopaweb
+[2]: https://github.com/HashLoad
+[3]: https://github.com/HashLoad/horse
+[4]: https://github.com/HashLoad/boss
